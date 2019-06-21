@@ -1,2 +1,2 @@
 # ReconhecedorComentario
-<h1>Sistema de Reconhecedor de Comentários em Java<h1>
+<h1>Sistema de Reconhecimento de Comentários em Java, Analise Lexicas <h1>
